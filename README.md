@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eka Syarif Maulana</h1>
-<h3 align="center">Cloud engineer | Desaigner</h3>
+<h3 align="center">Cloud Engineer | Designer</h3>
 
 
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
 
 
-![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif]()
 </div>
 
 <p>
